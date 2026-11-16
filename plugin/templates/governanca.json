@@ -1,0 +1,6 @@
+{
+  "versao": 1,
+  "exigirSpec": true,
+  "verificacao": { "comando": "", "timeoutSeg": 120 },
+  "regras": []
+}

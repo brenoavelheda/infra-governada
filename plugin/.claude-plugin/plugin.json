@@ -1,0 +1,17 @@
+{
+  "name": "governanca",
+  "version": "0.1.0",
+  "description": "Infraestrutura governada para Claude Code: gates determinísticos em código, ciclo SPEC → ondas → NOTES.md com recuperação automática, parada verificada e auditoria. Ativado por workspace.",
+  "author": {
+    "name": "brenoavelheda",
+    "url": "https://github.com/brenoavelheda"
+  },
+  "keywords": [
+    "governança",
+    "hooks",
+    "gates",
+    "agentic",
+    "workflow",
+    "superpowers"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "infra-governada",
+  "owner": {
+    "name": "brenoavelheda",
+    "url": "https://github.com/brenoavelheda"
+  },
+  "description": "Infraestrutura governada para Claude Code",
+  "plugins": [
+    {
+      "name": "governanca",
+      "source": "./plugin",
+      "description": "Gates determinísticos, ciclo SPEC → ondas → NOTES.md, parada verificada e auditoria; ativado por workspace com /governanca:iniciar"
+    }
+  ]
+}
